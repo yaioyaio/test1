@@ -1,3 +1,6 @@
 /ignoredir
+*.abc
+./**/*.abc
+
 
 
